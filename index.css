@@ -1,0 +1,52 @@
+.Square{
+    width: 150px;
+    height: 150px;
+    background: #B376B6;
+
+}
+.Rectangle{
+    width: 250px;
+    height: 150px;
+    background: #B6366F;
+}
+.Circle{
+    width: 150px;
+    height: 150px;
+    background: #A052B6;
+    border-radius: 50%
+}
+.Triangle{
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 150px solid #B61945;
+
+}
+.Diagonal1{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 150px solid #4B74B6;
+    display: block;
+}
+.Diagonal2{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 150px solid #4B74B6;
+}
+.Table{
+    border-bottom: 120px solid #4B57B6;
+    border-left: transparent;
+    border-right: 45px solid transparent;
+    height: 0;
+    width: 100px;
+}
+
+
+
+
+
